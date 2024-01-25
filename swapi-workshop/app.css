@@ -1,0 +1,19 @@
+body {
+  background-color: black;
+}
+h1 {
+  text-align: center;
+}
+
+#logo {
+  display: flex;
+  width: 35vh;
+  margin: auto;
+  border-radius: 50%;
+}
+
+.all {
+  border-radius: 50%;
+  width: 25vh;
+  margin: 35px 300px 40px 232px;
+}
